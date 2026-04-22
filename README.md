@@ -55,10 +55,9 @@ Where are we losing profit? 📉
 
 How can sales performance be improved? 🚀
 
-## Sreenshots / Demos
-show what the dashboard looks like:https://github.com/Vedant-0/Sales_Performance/commit/ea4c0eff14a0db462582c419c38bd741f263d79c
+
 ## 📸 Screenshots / Demo
 
-Here’s a preview of the dashboard:
+Here’s what the dashboard looks like 👇
 
-![Sales Dashboard]([your-image-link-here](https://github.com/Vedant-0/Sales_Performance/commit/ea4c0eff14a0db462582c419c38bd741f263d79c))
+![Sales Dashboard](https://raw.githubusercontent.com/Vedant-0/Sales_Performance/main/Snapshot%20of%20the%20Dashboard.png)
